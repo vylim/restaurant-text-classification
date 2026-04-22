@@ -1,2 +1,5 @@
 # JSON Dataset Files
 *.json
+
+# Environment variables (API keys)
+.env
